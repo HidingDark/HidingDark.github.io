@@ -1,2 +1,2 @@
 # myblog
-personal bolg
+personal blog
