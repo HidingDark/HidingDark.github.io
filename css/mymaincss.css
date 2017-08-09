@@ -1,0 +1,28 @@
+.article-img{
+    float: left;
+    height: 230px;
+    padding:1em;
+    border: 1px solid #e7e7e7;
+    box-shadow: 4px 4px 4px #e6e6e6;
+
+}
+.article-content{
+    float: left;
+    overflow: hidden;
+    padding-right: 2em;
+    height: 220px;
+    text-align:left;
+}
+.aritcle-container{
+    text-align: center;
+    margin-top: 20px;
+    height: 300px;
+    position: relative;
+}
+.read-more{
+    color: #00a57f;
+    position: absolute;
+    right: 5px;
+    bottom: 0px;
+    cursor: pointer;
+}

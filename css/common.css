@@ -1,0 +1,16 @@
+body{
+    background: url("../img/body_bg.jpg");
+    font-size: 15px;
+    color: #34495e;
+}
+.navbar-header{
+    background-color: #e3e3e3;
+}
+.nav li a:hover{
+    background-color: #939b9f;
+}
+.article-list{
+    padding-top: 80px;
+    background-color: rgba(255,255,255,0.9);
+    /*background-color: rgba(120, 144, 168, .92);*/
+}

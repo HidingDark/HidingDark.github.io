@@ -1,0 +1,22 @@
+.article-img{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    padding: 1em;
+    border: 1px solid #e7e7e7;
+    box-shadow: 4px 4px 4px #e6e6e6;
+}
+.article-content{
+    margin-top: 2em;
+    padding-right: 4em;
+    padding-left: 4em;
+    text-align:left;
+}
+.aritcle-container{
+    text-align: center;
+    margin-top: 20px;
+    position: relative;
+}
+.my_btn_group{
+    text-align: center;
+}
